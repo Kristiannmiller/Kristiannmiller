@@ -21,14 +21,36 @@ Developer // Designer // Photographer</p>
 
 #### :: my toolbelt ::
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Apple](https://img.shields.io/badge/-Apple-181717?style=flat-square&logo=Apple)
+##### languages
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-2A42D0.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### frameworks
+<p>
+  <img src="https://img.shields.io/badge/react%20-7119C2.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass%20-7119C2.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js%20-2A42D0.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-B8189A.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+</p>
+
+### tools
+<p>
+  <img src="https://img.shields.io/badge/markdown%20-7119C2.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-201E84.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-2A42D0.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop%20-201E84.svg?&style=for-the-badge&logo=Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom%20-201E84.svg?&style=for-the-badge&logo=Lightroom&logoColor=white" />
+</p>
+
+### processes
+<p>
+  <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+</p>
 
 #### :: my github stats ::
 
