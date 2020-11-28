@@ -23,34 +23,33 @@ Developer // Designer // Photographer</p>
 
 ##### languages
 <p>
-  <img src="https://img.shields.io/badge/javascript%20-2A42D0.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-454851.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-73956F.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-C97D60.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### frameworks
 <p>
-  <img src="https://img.shields.io/badge/react%20-7119C2.svg?&style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass%20-7119C2.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js%20-2A42D0.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-B8189A.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20-745807.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass%20-454851.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js%20-73956F.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-C97D60.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 </p>
 
 ### tools
 <p>
-  <img src="https://img.shields.io/badge/markdown%20-7119C2.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-201E84.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-2A42D0.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop%20-201E84.svg?&style=for-the-badge&logo=Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lightroom%20-201E84.svg?&style=for-the-badge&logo=Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown%20-745807.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-454851.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-73956F.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-C97D60.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop%20-745807.svg?&style=for-the-badge&logo=Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom%20-454851.svg?&style=for-the-badge&logo=Lightroom&logoColor=white" />
 </p>
 
 ### processes
 <p>
-  <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/OOP%20-73956F.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-B8189AC97D60
 
 #### :: my github stats ::
 
