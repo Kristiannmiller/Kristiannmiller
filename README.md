@@ -28,7 +28,7 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/css3%20-C97D60.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### frameworks
+##### frameworks
 <p>
   <img src="https://img.shields.io/badge/react%20-745807.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/sass%20-454851.svg?&style=for-the-badge&logo=sass&logoColor=white" />
@@ -38,7 +38,7 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/jest%20-454851.svg?&style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-### tools
+##### tools
 <p>
   <img src="https://img.shields.io/badge/markdown%20-73956F.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/heroku%20-C97D60.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
@@ -49,7 +49,7 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/Lightroom%20-745807.svg?&style=for-the-badge&logo=Lightroom&logoColor=white" />
 </p>
 
-### processes
+##### processes
 <p>
   <img src="https://img.shields.io/badge/OOP%20-454851.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
   <img src="https://img.shields.io/badge/TDD%20-73956F.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
