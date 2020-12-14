@@ -12,7 +12,7 @@ Developer // Designer // Photographer</p>
 
 #### :: a little bit about me ::
 
-* I'm currently working as a student at Turing School of Software and Design's Front-End program finishing up my certification in January 2020.
+* I'm currently working as a student at Turing School of Software and Design's Front-End program finishing up my certification in January 2021.
 * My main focus currently is React and Redux.
 * I have a deep rooted love for beautiful web design.
 * I have a background in photography and design
