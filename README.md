@@ -12,10 +12,10 @@ Developer // Designer // Photographer</p>
 
 #### :: a little bit about me ::
 
-* I'm currently working as a student at Turing School of Software and Design's Front-End program finishing up my certification in January 2021.
-* My main focus currently is React and Redux.
+* I'm a recent graduate of Turing School of Software and Design's Front-End program on the lookout for a full-time position.
+* My main focus currently is React and TypeScript.
 * I have a deep rooted love for beautiful web design.
-* I have a background in photography and design
+* I have a background in photography and design.
 * Pronouns: She / Her
 
 
@@ -24,8 +24,9 @@ Developer // Designer // Photographer</p>
 ##### languages
 <p>
   <img src="https://img.shields.io/badge/javascript%20-454851.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-73956F.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-C97D60.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript5%20-73956F.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-C97D60.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-745807.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ##### frameworks
@@ -66,3 +67,7 @@ Developer // Designer // Photographer</p>
   </a>
 </div
 <br/>
+
+#### :: currently spinning ::
+
+![Kristi's recent listens](https://spotify-recently-played-readme.vercel.app/api?user=121527228&count=5)
