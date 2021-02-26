@@ -13,7 +13,7 @@ Developer // Designer // Photographer</p>
 #### :: a little bit about me ::
 
 * I'm a recent graduate of Turing School of Software and Design's Front-End program on the lookout for a full-time position.
-* My main focus currently is React and TypeScript.
+* Currently learning: React Native.
 * I have a deep rooted love for beautiful web design.
 * I have a background in photography and design.
 * Pronouns: She / Her
