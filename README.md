@@ -34,7 +34,7 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/react%20-745807.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/sass%20-454851.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-73956F.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-C97D60.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-C97D60.svg?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/mocha%20-745807.svg?&style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/jest%20-454851.svg?&style=for-the-badge&logo=jest&logoColor=white" />
 </p>
@@ -43,11 +43,12 @@ Developer // Designer // Photographer</p>
 <p>
   <img src="https://img.shields.io/badge/markdown%20-73956F.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/heroku%20-C97D60.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-745807.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Travis CI%20-745807.svg?&style=for-the-badge&logo=Travis-CI&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-454851.svg?&style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/greensock%20-73956F.svg?&style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop%20-C97D60.svg?&style=for-the-badge&logo=Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lightroom%20-745807.svg?&style=for-the-badge&logo=Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop%20-C97D60.svg?&style=for-the-badge&logo=adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom%20-745807.svg?&style=for-the-badge&logo=adobe-Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled Components%20-454851.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
 ##### processes
