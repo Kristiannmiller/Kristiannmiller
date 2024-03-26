@@ -12,12 +12,12 @@ Developer // Designer // Photographer</p>
 
 #### :: a little bit about me ::
 
-* I'm a recent graduate of Turing School of Software and Design's Front-End program on the lookout for a full-time position.
+* I am a Front-End Software Developer II at Rightpoint (coming up on 3 years now!)
+* I'm a graduate of Turing School of Software and Design's Front-End program.
 * I have a background in photography and marketing.
 * I have a deep rooted love for beautiful web design.
 * Currently learning: React Native.
 * Currently loving: TypeScript and CSS.
-* Check out my [Most Recent Project](https://github.com/Kristiannmiller/HE-Code-Exercise)!
 * Pronouns: She / Her
 
 
