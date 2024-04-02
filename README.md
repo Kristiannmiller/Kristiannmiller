@@ -40,6 +40,10 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/express.js%20-454851.svg?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/greensock%20-745807.svg?&style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown%20-C97D60.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/framer%20-73956F.svg?&style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/storybook%20-454851.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js%20-745807.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma%20-C97D60.svg?&style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ##### tools & practices
@@ -60,6 +64,7 @@ Developer // Designer // Photographer</p>
   <img src="https://img.shields.io/badge/Photoshop%20-73956F.svg?&style=for-the-badge&logo=adobe-Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Lightroom%20-454851.svg?&style=for-the-badge&logo=adobe-Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban Systems%20-745807.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma%20-C97D60.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ##### other
